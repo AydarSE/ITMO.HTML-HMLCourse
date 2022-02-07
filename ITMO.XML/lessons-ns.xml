@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<myns:TimeTable xmlns:myns="http://www.itmo.ru/xml/lessons">
+
+	<myns:lesson id = "a">
+		<myns:subject>Основы технологий разметки</myns:subject>
+        <myns:TeacherName>Константин</myns:TeacherName>
+		<myns:TeacherLastName>Кузьмин</myns:TeacherLastName>
+		<myns:StartDate>03.02.2022</myns:StartDate>
+		<myns:FinishDate>08.02.2022</myns:FinishDate>
+	</myns:lesson>
+	
+	<myns:lesson id = "b">
+		<myns:subject>Технология ADO.NET</myns:subject>
+        <myns:TeacherName>Никита</myns:TeacherName>
+		<myns:TeacherLastName>Осипов</myns:TeacherLastName>
+		<myns:StartDate>10.02.2022</myns:StartDate>
+		<myns:FinishDate>24.02.2022</myns:FinishDate>
+	</myns:lesson>
+</myns:TimeTable>
