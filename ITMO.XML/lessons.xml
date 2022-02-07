@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<course>
+	<lesson id = "a">
+		<subject>Основы технологий разметки</subject>
+        <TeacherName>Константин</TeacherName>
+		<TeacherLastName>Кузьмин</TeacherLastName>
+		<StartDate>03.02.2022</StartDate>
+		<FinishDate>08.02.2022</FinishDate>
+	</lesson>
+	
+	<lesson id = "b">
+		<subject>Технология ADO.NET</subject>
+        <TeacherName>Никита</TeacherName>
+		<TeacherLastName>Осипов</TeacherLastName>
+		<StartDate>10.02.2022</StartDate>
+		<FinishDate>24.02.2022</FinishDate>
+	</lesson>
+</course>
